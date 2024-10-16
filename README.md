@@ -7,20 +7,25 @@ Welcome to this repository, where we come together to share and grow the Flutter
 Below is a list of companies that have adopted Flutter for their applications. Companies are sorted in alphabetical order:
 
 # A
-   
+
 # B
-  - [BE](https://be.com.vn/) - Nền tảng đa dịch vụ (đặt xe, đồ ăn ...).
+
+- [BE](https://be.com.vn/) - Nền tảng đa dịch vụ (đặt xe, đồ ăn ...).
+
 # C
 
 # D
 
 # E
-  - [Educa](https://edupia.vn/) - Using Flutter for online education.
-  - [ExpertERP](https://www.gmc.solutions/) - ERP mobile app
+
+- [Educa](https://edupia.vn/) - Using Flutter for online education.
+- [ExpertERP](https://www.gmc.solutions/) - ERP mobile app
+
 # F
 
 # G
-  - [GHTK](https://giaohangtietkiem.vn/)
+
+- [GHTK](https://giaohangtietkiem.vn/)
 
 # H
 
@@ -29,18 +34,38 @@ Below is a list of companies that have adopted Flutter for their applications. C
 # J
 
 # K
-  - [KiotViet](https://www.kiotviet.vn/) - Phần mềm quản lý bán hàng phổ biến nhất.
+
+- [KiotViet](https://www.kiotviet.vn/) - Phần mềm quản lý bán hàng phổ biến nhất.
 
 # L
 
 # M
- - [MochiMochi](https://mochidemy.com/) - Best learn Vocab, Listening
-   
+
+- [MochiMochi](https://mochidemy.com/) - Best learn Vocab, Listening
+
 # N
 
 # O
 
 # P
+
+# Q
+
+# R
+
+# S
+
+# T
+
+- [TAS VIETNAME](https://play.google.com/store/apps/developer?id=TAS+VIETNAM&hl=vi) - Group of ride-hailing apps
+
+# U
+
+# V
+
+- [MyViettel](https://play.google.com/store/apps/details?id=com.vttm.vietteldiscovery&hl=vi)
+- [VietInfo](https://vietinfo.tech/) - Non-public applications for government agencies
+- [ViSafe](https://visafe.com.vn/) - Car booking app
 
 # W
 
