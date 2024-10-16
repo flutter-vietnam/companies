@@ -16,7 +16,7 @@ Below is a list of companies that have adopted Flutter for their applications. C
 
 # E
   - [Educa](https://edupia.vn/) - Using Flutter for online education.
-
+  - [ExpertERP](https://www.gmc.solutions/) - ERP mobile app
 # F
 
 # G
@@ -34,7 +34,8 @@ Below is a list of companies that have adopted Flutter for their applications. C
 # L
 
 # M
-
+ - [MochiMochi](https://mochidemy.com/) - Best learn Vocab, Listening
+ - 
 # N
 
 # O
