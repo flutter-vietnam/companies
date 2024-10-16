@@ -35,7 +35,7 @@ Below is a list of companies that have adopted Flutter for their applications. C
 
 # M
  - [MochiMochi](https://mochidemy.com/) - Best learn Vocab, Listening
- - 
+   
 # N
 
 # O
